@@ -1,0 +1,17 @@
+{
+  "project": "MetaBridge",
+  "version": "1.0",
+  "type": "Bridge Index",
+  "language": ["zh-TW", "en"],
+  "maintainer": "Orangedem / Guider DD",
+  "created": "2025-04-15",
+  "linked_repos": [
+    "SyntaxChronicle",
+    "Chrysalis.OS",
+    "Anima-Curatoria",
+    "Anima-Curatoria-V2",
+    "Hydro-Meta",
+    "Viandora-Meta",
+    "HAOF-UFS-protocols"
+  ]
+}
